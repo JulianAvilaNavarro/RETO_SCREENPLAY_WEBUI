@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../POM/RETO_POM/src/test/java/co/com/sofka/stepdefinition/PracticeFormTestCucumberStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/models/practiceform/PracticeFormModelContactUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/models/practiceform/PracticeFormModelSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/practiceform/ContactUsErrorQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/practiceform/ContactUsQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/practiceform/SigninFailQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/practiceform/SigninQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/OpenLandingPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceform/BrowseToContacUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceform/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/BrowseToContacUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/BrowseToSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/FillContactUsCustomerServiceForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/FillContactWebMasterServiceForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/FillMandatoryContactUsForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/FillSigninFailLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/task/practiceformcontactus/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/userinterfaces/LandingPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/userinterfaces/practiceform/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/userinterfaces/practiceform/PracticeFormContactUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/userinterfaces/practiceform/PracticeFormSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/practiceform/PracticeFromTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinition/practiceform/PracticeFormStepDefinitionContactUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinition/practiceform/PracticeFormStepDefinitionSignIn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/practiceform/contactus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/practiceform/signin.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../qaciclo4-trunk-base web/base web/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

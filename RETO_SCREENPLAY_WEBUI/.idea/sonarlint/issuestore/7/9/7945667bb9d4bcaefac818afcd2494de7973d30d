@@ -1,0 +1,27 @@
+
+q
+java:S1450"VRemove the "country" field and declare it as a local variable in the relevant methods.(“—àÊúÿÿÿÿ
+k
+java:S1450"VRemove the "dayBird" field and declare it as a local variable in the relevant methods.(êµ˜7
+k
+java:S1450"URemove the "gender" field and declare it as a local variable in the relevant methods.(ÀÄŒ
+n
+java:S1450"XRemove the "monthBird" field and declare it as a local variable in the relevant methods.(Ş•Óû
+o
+java:S1450"TRemove the "state" field and declare it as a local variable in the relevant methods.(µîŠ©øÿÿÿÿ
+r
+java:S1450"WRemove the "yearBird" field and declare it as a local variable in the relevant methods.(¥šù¤øÿÿÿÿ
+d
+java:S1128"BRemove this unused import 'net.serenitybdd.screenplay.waits.Wait'.(Èø€®øÿÿÿÿ8­ô˜£ã/
+@
+java:S1068"*Remove this unused "gender" private field.(ÀÄŒ
+@
+java:S1068"+Remove this unused "dayBird" private field.(êµ˜7
+C
+java:S1068"-Remove this unused "monthBird" private field.(Ş•Óû
+G
+java:S1068",Remove this unused "yearBird" private field.(¥šù¤øÿÿÿÿ
+D
+java:S1068")Remove this unused "state" private field.(µîŠ©øÿÿÿÿ
+F
+java:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿ

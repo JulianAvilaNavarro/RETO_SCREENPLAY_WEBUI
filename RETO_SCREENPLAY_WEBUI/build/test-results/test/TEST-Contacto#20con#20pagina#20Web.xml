@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Contacto con pagina Web" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-06T19:55:09" hostname="LAPTOP-MV96M8B2" time="64.565">
+  <properties/>
+  <testcase name="Mensaje a servicio al cliente" classname="Contacto con pagina Web" time="34.818"/>
+  <testcase name="Mensaje al administrador web de la pagina" classname="Contacto con pagina Web" time="29.745"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene. 06, 2022 2:55:10 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}) on port 25950
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene. 06, 2022 2:55:14 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ene. 06, 2022 2:55:44 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}) on port 12694
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene. 06, 2022 2:55:47 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
